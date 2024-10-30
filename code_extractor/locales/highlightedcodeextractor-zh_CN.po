@@ -1,0 +1,24 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/highlighted-code-extractor\n"
+"POT-Creation-Date: 2010-10-24 06:33+0000\n"
+"PO-Revision-Date: 2010-10-24 14:41+0800\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (simplified)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: code_extractor/code_extractor.php:30
+msgid "preview in new window/tab"
+msgstr "新页面预览"
+
+#: code_extractor/code_extractor.php:31
+msgid "copy code"
+msgstr "复制代码"
